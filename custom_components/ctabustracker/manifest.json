@@ -1,9 +1,9 @@
 {
     "domain": "ctabustracker",
     "name": "CTA Bus Tracker",
-    "version": "1.0.1",
-    "documentation": "https://github.com/jonochocki/sensor.ctabustracker",
+    "version": "0.0.4",
+    "documentation": "https://github.com/smcpeck/sensor.ctabustracker",
     "dependencies": [],
-    "codeowners": ["@jonochocki"],
+    "codeowners": ["@ludeeus","@jonochocki","@smcpeck"],
     "requirements": []
   }

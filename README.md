@@ -1,5 +1,7 @@
 # sensor.ctabustracker
 
+**INTEGRATION STATE: UNMAINTAINED**
+
 Show departure information from ctabustracker (Chicago Transit Authority).
 
 This plafrom is based of the findings of [@SilvrrGIT](https://github.com/SilvrrGIT)
